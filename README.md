@@ -1,3 +1,3 @@
 # AreaTriangle-Java
 
-<img src="AreaTriangle.jpg" width=100>
+<img src="AreaTriangle.jpg">
